@@ -105,7 +105,7 @@ public class ComicListAdapter extends RecyclerView.Adapter<ComicListAdapter.View
 
         @Override
         public void onClick(View view) {
-            comicClickListener.onComicClickListener(getComic(getAdapterPosition()),new WeakReference<TextView>(comicTitle));
+            comicClickListener.onComicClickListener(getComic(getAdapterPosition()));
         }
     }
 }

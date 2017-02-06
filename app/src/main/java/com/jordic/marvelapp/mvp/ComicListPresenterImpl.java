@@ -23,7 +23,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 
 /**
- * Created by J on 04/02/2017.
+ * Created by Jordi on 04/02/2017.
  */
 
 public class ComicListPresenterImpl implements ComicListPresenter{
@@ -63,6 +63,8 @@ public class ComicListPresenterImpl implements ComicListPresenter{
         String hash = NetworkUtils.getHash(ts,privateKey,apiKey);
 
         Call<ResponseBody> call = comicService.getComics(HERO_ID,offset,limit,ts,apiKey,hash);
+
+        Log.d("REQUEST",call.request().url().toString());
 
         call.enqueue(new Callback<ResponseBody>() {
             @Override

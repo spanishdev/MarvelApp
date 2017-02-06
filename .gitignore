@@ -7,3 +7,4 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/androidTest/java/com/jordic/marvelapp/MockResponses

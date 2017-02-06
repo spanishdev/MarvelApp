@@ -11,5 +11,5 @@ import java.lang.ref.WeakReference;
  */
 
 public interface ComicClickListener {
-    void onComicClickListener(Comic comic, WeakReference<TextView> textViewWeakReference);
+    void onComicClickListener(Comic comic);
 }

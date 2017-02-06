@@ -37,7 +37,7 @@ import static com.jordic.marvelapp.R.id.progressBarLoadMore;
 import static com.jordic.marvelapp.R.id.titleTextView;
 
 /**
- * Created by J on 04/02/2017.
+ * Created by Jordi on 04/02/2017.
  */
 
 public class ComicListFragment extends Fragment implements ComicListView,ComicClickListener {
@@ -157,9 +157,9 @@ public class ComicListFragment extends Fragment implements ComicListView,ComicCl
 
 
     @Override
-    public void onComicClickListener(Comic comic, WeakReference<TextView> textViewWeakReference) {
+    public void onComicClickListener(Comic comic) {
         setExitTransition(TransitionInflater.from(getActivity()).inflateTransition(android.R.transition.explode));
 
-        ((MainActivity)getActivity()).loadComicDetailsFragment(comic,textViewWeakReference);
+        ((MainActivity)getActivity()).loadComicDetailsFragment(comic);
     }
 }

@@ -1,0 +1,2519 @@
+{
+	"code": 200,
+	"status": "Ok",
+	"copyright": "© 2017 MARVEL",
+	"attributionText": "Data provided by Marvel. © 2017 MARVEL",
+	"attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2017 MARVEL</a>",
+	"etag": "10fc914fc98cfd04649a09442b9bff2073c18682",
+	"data": {
+		"offset": 0,
+		"limit": 20,
+		"total": 1681,
+		"count": 20,
+		"results": [{
+				"id": 57875,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #10",
+				"issueNumber": 10,
+				"variantDescription": "",
+				"description": "In the wake of Maria Hill's court-martial, who will become the new head of S.H.I.E.L.D.? The answer will electrify you!",
+				"modified": "2017-01-20T12:57:36-0500",
+				"isbn": "",
+				"upc": "75960608457901011",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "In the wake of Maria Hill's court-martial, who will become the new head of S.H.I.E.L.D.? The answer will electrify you!"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57875",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57875/captain_america_steve_rogers_2016_10?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-10/digital-comic/43788?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2017-01-25T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2017-01-31T00:00:00-0500"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/58824eb0b4d44",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/58824eb0b4d44",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/586eb9742aea9",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57875/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+							"name": "Simone Bianchi",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+							"name": "Jesus Saiz",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57875/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 1
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57875/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126452",
+							"name": "cover from Captain America: Steve Rogers (2016) #10",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126453",
+							"name": "story from Captain America: Steve Rogers (2016) #10",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57875/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 62682,
+				"digitalId": 0,
+				"title": "Avengers (2016) #3.1",
+				"issueNumber": 3.1,
+				"variantDescription": "",
+				"description": "Labeled \"The Mighty Pretenders\" by an unforgiving public, Captain America redoubles his efforts to revive the Avengers' reputation - only to face an unbeatable foe.",
+				"modified": "2017-01-10T16:18:14-0500",
+				"isbn": "",
+				"upc": "",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 0,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "Labeled \"The Mighty Pretenders\" by an unforgiving public, Captain America redoubles his efforts to revive the Avengers' reputation - only to face an unbeatable foe."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/62682",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/62682/avengers_2016_3.1?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Avengers-3-1/digital-comic/44434?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/22547",
+					"name": "Avengers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2017-01-18T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-12-28T00:00:00-0500"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 0
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58754f3a8e511",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/58754f3a8e511",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/62682/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+							"name": "Barry Kitson",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+							"name": "Mark Waid",
+							"role": "writer"
+						}
+					],
+					"returned": 2
+				},
+				"characters": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/62682/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+							"name": "Hawkeye"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+							"name": "Quicksilver"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+							"name": "Scarlet Witch"
+						}
+					],
+					"returned": 5
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/62682/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/136360",
+							"name": "cover to Avengers (2016) #3.1",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/136361",
+							"name": "interior to Avengers #3.1",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/62682/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57874,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #9",
+				"issueNumber": 9,
+				"variantDescription": "",
+				"description": "With Steve searching desperately for Kobik, he reaches out to a hero that can help — Avril Kincaid, the all-new Quasar! Plus, a threat from beyond the stars pushes an already-weakened S.H.I.E.L.D. to the brink.",
+				"modified": "2017-01-05T16:52:03-0500",
+				"isbn": "",
+				"upc": "75960608457900911",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "With Steve searching desperately for Kobik, he reaches out to a hero that can help — Avril Kincaid, the all-new Quasar! Plus, a threat from beyond the stars pushes an already-weakened S.H.I.E.L.D. to the brink."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57874",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57874/captain_america_steve_rogers_2016_9?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-9/digital-comic/43789?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2017-01-11T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-12-11T00:00:00-0500"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/586eb3df72120",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/586eb3df72120",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57874/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+							"name": "Jesus Saiz",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57874/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1011335",
+							"name": "Maria Hill"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57874/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126450",
+							"name": "cover from Captain America: Steve Rogers (2016) #9",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126451",
+							"name": "story from Captain America: Steve Rogers (2016) #9",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57874/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57873,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #8",
+				"issueNumber": 8,
+				"variantDescription": "",
+				"description": "The trial of Maria Hill begins here.  As Hydra rises, S.H.I.E.L.D. collapses from within.\n",
+				"modified": "2016-12-16T11:51:15-0500",
+				"isbn": "",
+				"upc": "75960608457900811",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "The trial of Maria Hill begins here.  As Hydra rises, S.H.I.E.L.D. collapses from within.\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57873",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57873/captain_america_steve_rogers_2016_8?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-8/digital-comic/43408?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-12-28T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-12-06T00:00:00-0500"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/584b0c3ae3537",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/584b0c3ae3537",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57873/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+							"name": "Jesus Saiz",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+							"name": "Elizabeth Torque",
+							"role": "penciller (cover)"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57873/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 1
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57873/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126448",
+							"name": "cover from Captain America: Steve Rogers (2016) #8",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126449",
+							"name": "story from Captain America: Steve Rogers (2016) #8",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57873/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 59597,
+				"digitalId": 0,
+				"title": "Avengers (2016) #2.1",
+				"issueNumber": 2.1,
+				"variantDescription": "",
+				"description": "More on the Secret History of the Avengers! A stranger has come to New York — and the Avengers may have to draft a new member to help them defeat him!",
+				"modified": "2016-12-16T11:30:56-0500",
+				"isbn": "",
+				"upc": "75960608537800211",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "More on the Secret History of the Avengers! A stranger has come to New York — and the Avengers may have to draft a new member to help them defeat him!"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/59597",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/59597/avengers_2016_2.1?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/All-New-All-Different-Avengers-2-1/digital-comic/43487?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/22547",
+					"name": "Avengers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-12-21T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-11-30T00:00:00-0500"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/585416021cd51",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/585416021cd51",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59597/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+							"name": "Barry Kitson",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+							"name": "Mark Waid",
+							"role": "writer"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59597/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59597/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129693",
+							"name": "cover from All-New, All-Different Avengers (2015) #2",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129694",
+							"name": "story from All-New, All-Different Avengers (2015) #2",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59597/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 59847,
+				"digitalId": 0,
+				"title": "Civil War II (2016) #7",
+				"issueNumber": 7,
+				"variantDescription": "",
+				"description": "THE WAR ENDS…",
+				"modified": "2016-11-14T14:41:10-0500",
+				"isbn": "",
+				"upc": "75960608471500711",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 56,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "THE WAR ENDS…"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/59847",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/59847/civil_war_ii_2016_7?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Civil-War-II-7/digital-comic/42915?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21417",
+					"name": "Civil War II (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59853",
+						"name": "Civil War II (2016) #7 (Gi B&W Virgin Connecting Variant H)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59854",
+						"name": "Civil War II (2016) #7 (Steranko Captain America Black and White Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59915",
+						"name": "Civil War II (2016) #7 (Sprouse Battle Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61942",
+						"name": "Civil War II (2016) #7 (Michael Cho Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59867",
+						"name": "Civil War II (2016) #7 (Noto Miles Vs. Sam Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-11-23T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-10-05T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 5.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5820b7d373a63",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5820b7d373a63",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59847/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+							"name": "Brian Michael Bendis",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+							"name": "Marko Djurdjevic",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+							"name": "David Marquez",
+							"role": "penciller"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59847/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+							"name": "Captain Marvel (Carol Danvers)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+							"name": "Inhumans"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+							"name": "Iron Man"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+							"name": "Spider-Man (Miles Morales)"
+						}
+					],
+					"returned": 5
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59847/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/130202",
+							"name": "cover from Cw2 (2016) #7",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/130203",
+							"name": "story from Cw2 (2016) #7",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59847/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57872,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #7",
+				"issueNumber": 7,
+				"variantDescription": "",
+				"description": "“HAIL HYDRA” STARTS NOW! The Red Skull marches across Europe, and S.H.I.E.L.D. comes apart at the seams! Steve opens a door – and the secret behind it will shake the Marvel Universe to its core…\n",
+				"modified": "2016-11-04T14:56:23-0400",
+				"isbn": "",
+				"upc": "75960608457900711",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "“HAIL HYDRA” STARTS NOW! The Red Skull marches across Europe, and S.H.I.E.L.D. comes apart at the seams! Steve opens a door – and the secret behind it will shake the Marvel Universe to its core…\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57872",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57872/captain_america_steve_rogers_2016_7?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-7/digital-comic/43190?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-11-09T00:00:00-0500"
+					}, {
+						"type": "focDate",
+						"date": "2016-11-01T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/58068970ca20c",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/58068970ca20c",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57872/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+							"name": "Stephanie Hans",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+							"name": "Jesus Saiz",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57872/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+							"name": "Black Widow"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1011335",
+							"name": "Maria Hill"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+							"name": "Red Skull"
+						}
+					],
+					"returned": 4
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57872/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126446",
+							"name": "cover from Captain America: Steve Rogers (2016) #7",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126447",
+							"name": "story from Captain America: Steve Rogers (2016) #7",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57872/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 58683,
+				"digitalId": 0,
+				"title": "Civil War II (2016) #6",
+				"issueNumber": 6,
+				"variantDescription": "",
+				"description": "Sides have been drawn, battles have been fought, but it all comes down to this. Captain Marvel versus Iron Man over the future of the Marvel Universe, one of the biggest battles in Marvel history!",
+				"modified": "2016-10-21T17:32:59-0400",
+				"isbn": "",
+				"upc": "75960608471500611",
+				"diamondCode": "JUL160889",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 40,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "Sides have been drawn, battles have been fought, but it all comes down to this. Captain Marvel versus Iron Man over the future of the Marvel Universe, one of the biggest battles in Marvel history!"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/58683",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/58683/civil_war_ii_2016_6?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Civil-War-II-6/digital-comic/42663?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21417",
+					"name": "Civil War II (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/58879",
+						"name": "Civil War II (2016) #6 (Michael Cho Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59180",
+						"name": "Civil War II (2016) #6 (Gi B&W Virgin Connecting Variant G)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59454",
+						"name": "Civil War II (2016) #6 (Noto Black Panther Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59181",
+						"name": "Civil War II (2016) #6 (Gi Connecting Variant H)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59754",
+						"name": "Civil War II (2016) #6 (Sprouse Battle Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-10-26T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-09-07T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/580a89098acc0",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/580a89098acc0",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/57dc037db08c3",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/58683/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+							"name": "Brian Michael Bendis",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+							"name": "Marko Djurdjevic",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+							"name": "David Marquez",
+							"role": "penciller"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/58683/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+							"name": "Captain Marvel (Carol Danvers)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+							"name": "Iron Man"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+							"name": "Spider-Man (Miles Morales)"
+						}
+					],
+					"returned": 4
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/58683/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/127952",
+							"name": "cover from Cw2 (2016) #6",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/127953",
+							"name": "story from Cw2 (2016) #6",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/58683/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57871,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #6",
+				"issueNumber": 6,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! With the Marvel Universe at war, Steve fights for peace. Guest-starring Captain Marvel!\n",
+				"modified": "2016-10-18T11:29:48-0400",
+				"isbn": "",
+				"upc": "75960608457900611",
+				"diamondCode": "JUL160912",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! With the Marvel Universe at war, Steve fights for peace. Guest-starring Captain Marvel!\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57871",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57871/captain_america_steve_rogers_2016_6?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-6/digital-comic/42689?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61181",
+						"name": "Captain America: Steve Rogers (2016) #6 (Parel Defenders Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61209",
+						"name": "Captain America: Steve Rogers (2016) #6 (Hildebrandt Prostate Awareness Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-10-26T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-10-11T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/58010c888eac6",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/58010c888eac6",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57871/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12846",
+							"name": "Javier Pina",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+							"name": "Paul Renaud",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57871/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+							"name": "Captain Marvel (Carol Danvers)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+							"name": "Iron Man"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+							"name": "Spider-Man (Miles Morales)"
+						}
+					],
+					"returned": 4
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57871/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126444",
+							"name": "cover from Captain America: Steve Rogers (2016) #6",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126445",
+							"name": "story from Captain America: Steve Rogers (2016) #6",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57871/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 56568,
+				"digitalId": 0,
+				"title": "Captain America: Sam Wilson (2015) #14",
+				"issueNumber": 14,
+				"variantDescription": "",
+				"description": "“TAKE BACK THE SHIELD” STARTS NOW!\nThe world has received an ULTIMATUM: Peace in our time...or face the fury of The Flag-Smasher! Amid cries of “#TakeBacktheShield”, Sam Wilson stands against a rising tide. But he is not alone! Guest-starring in this issue – Steve Rogers: Captain America! Only, Steve has a secret…\n",
+				"modified": "2016-10-12T15:55:47-0400",
+				"isbn": "",
+				"upc": "75960608347301411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "“TAKE BACK THE SHIELD” STARTS NOW!\nThe world has received an ULTIMATUM: Peace in our time...or face the fury of The Flag-Smasher! Amid cries of “#TakeBacktheShield”, Sam Wilson stands against a rising tide. But he is not alone! Guest-starring in this issue – Steve Rogers: Captain America! Only, Steve has a secret…\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/56568",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/56568/captain_america_sam_wilson_2015_14?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Sam-Wilson-14/digital-comic/42912?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20711",
+					"name": "Captain America: Sam Wilson (2015 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61866",
+						"name": "Captain America: Sam Wilson (2015) #14 (Deodato Champions Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61867",
+						"name": "Captain America: Sam Wilson (2015) #14 (Renaud Story Thus Far Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/61868",
+						"name": "Captain America: Sam Wilson (2015) #14 (Broderick Classic Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-10-19T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-10-04T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/57fe4b161781b",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/57fe4b161781b",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/57e2a4f3dcc8e",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/57e2a4d6de061",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/57e2a4af726af",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/57e2a47dbff8a",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56568/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+							"name": "Marcos Martin",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+							"name": "Paul Renaud",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56568/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1017575",
+							"name": "Captain America (Sam Wilson)"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56568/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123991",
+							"name": "cover from Captain America: Sam Wilson (2015) #14",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123992",
+							"name": "story from Captain America: Sam Wilson (2015) #14",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56568/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57870,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #5",
+				"issueNumber": 5,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! As heroes choose sides and tragedy strikes, Steve takes steps to end the war. Guest-starring the Invincible Iron Man!",
+				"modified": "2016-09-22T10:39:34-0400",
+				"isbn": "",
+				"upc": "75960608457900511",
+				"diamondCode": "JUN160784",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! As heroes choose sides and tragedy strikes, Steve takes steps to end the war. Guest-starring the Invincible Iron Man!"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57870",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57870/captain_america_steve_rogers_2016_5?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-5/digital-comic/42313?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60203",
+						"name": "Captain America: Steve Rogers (2016) #5 (Chen Marvel Tsum Tsum Takeover Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-09-28T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-09-13T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57dc0e06677f9",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/57dc0e06677f9",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57870/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12846",
+							"name": "Javier Pina",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+							"name": "Paul Renaud",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57870/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 1
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57870/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126442",
+							"name": "cover from Captain America: Steve Rogers (2016) #5",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126443",
+							"name": "story from Captain America: Steve Rogers (2016) #5",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57870/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 56226,
+				"digitalId": 0,
+				"title": "Uncanny Avengers (2015) #14",
+				"issueNumber": 14,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! The Unity Squad’s mutants go rogue, no pun intended, as they search for a solution to the Terrigen Mist problem that’s been killing their brethren. Steve Rogers makes a shocking decision, and the Unity Squad will never be the same! Doctor Voodoo’s brother’s makes a deal with the devil. (Actually, The Hand, and they’re way worse.)\n",
+				"modified": "2016-09-09T13:00:49-0400",
+				"isbn": "",
+				"upc": "75960608341101411",
+				"diamondCode": "JUL160909",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! The Unity Squad’s mutants go rogue, no pun intended, as they search for a solution to the Terrigen Mist problem that’s been killing their brethren. Steve Rogers makes a shocking decision, and the Unity Squad will never be the same! Doctor Voodoo’s brother’s makes a deal with the devil. (Actually, The Hand, and they’re way worse.)\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/56226",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/56226/uncanny_avengers_2015_14?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Uncanny-Avengers-14/digital-comic/42649?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20621",
+					"name": "Uncanny Avengers (2015 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-09-14T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-31T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/57d2ea45429a5",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/57d2ea45429a5",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/57d076dbacd31",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56226/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+							"name": "Gerry Duggan",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+							"name": "Ryan Stegman",
+							"role": "penciller (cover)"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56226/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+							"name": "Cable"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+							"name": "Deadpool"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+							"name": "Quicksilver"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+							"name": "Rogue"
+						}
+					],
+					"returned": 6
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56226/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123415",
+							"name": "cover from Uncanny Avengers (2015) #14",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123416",
+							"name": "story from Uncanny Avengers (2015) #14",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56226/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 59633,
+				"digitalId": 0,
+				"title": "Marvel Universe Avengers: Ultron Revolution (2016) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": "TIME OUT OF MIND! It’s 1944, and Bucky has been captured by Baron Zemo! Decades before the Avengers ever formed, Captain America stands alone! Or does he? There’s something very familiar about all of this…\n",
+				"modified": "2016-09-01T11:10:11-0400",
+				"isbn": "",
+				"upc": "759606085331000311",
+				"diamondCode": "JUL161037",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "TIME OUT OF MIND! It’s 1944, and Bucky has been captured by Baron Zemo! Decades before the Avengers ever formed, Captain America stands alone! Or does he? There’s something very familiar about all of this…\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/59633",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/59633/marvel_universe_avengers_ultron_revolution_2016_3?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21698",
+					"name": "Marvel Universe Avengers: Ultron Revolution (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-09-07T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-23T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 2.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/57c5966e79d1d",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/57c5966e79d1d",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59633/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Joe Caramagna",
+							"role": "writer"
+						}
+					],
+					"returned": 1
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59633/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59633/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129765",
+							"name": "cover from Marvel Universe Avengers: Ultron Revolution (2016) #3",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129766",
+							"name": "story from Marvel Universe Avengers: Ultron Revolution (2016) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59633/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57150,
+				"digitalId": 0,
+				"title": "Spidey (2015) #10",
+				"issueNumber": 10,
+				"variantDescription": "",
+				"description": "Spidey versus Captain America! Nah, just kidding. Spidey teams up with Captain America! What sort of ropes will Spidey learn from the Living Legend\n",
+				"modified": "2016-09-01T11:43:18-0400",
+				"isbn": "",
+				"upc": "75960608356501011",
+				"diamondCode": "JUL160979",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "Spidey versus Captain America! Nah, just kidding. Spidey teams up with Captain America! What sort of ropes will Spidey learn from the Living Legend\n"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57150",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57150/spidey_2015_10?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Spidey-10/digital-comic/42602?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20861",
+					"name": "Spidey (2015 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-09-07T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-24T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57c5993d012f8",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/57c5993d012f8",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/57aba6b70d6ae",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/57aba6662a7ea",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/57aba62b826be",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57150/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/613",
+							"name": "Khary Randolph",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12842",
+							"name": "Nathan Stockman",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+							"name": "Robbie Thompson",
+							"role": "writer"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57150/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+							"name": "Spider-Man"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57150/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/125117",
+							"name": "cover from Spidey (2015) #10",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/125118",
+							"name": "story from Spidey (2015) #10",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57150/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 56225,
+				"digitalId": 0,
+				"title": "Uncanny Avengers (2015) #13",
+				"issueNumber": 13,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! Deadpool risks his Avengers status on a secret mission to rescue another Avenger! The aftermath of an explosive CIVIL WAR II event reverberates through the Avengers. Plus, Cable and Steve Rogers face off, with the future of the Unity Squad at stake.",
+				"modified": "2016-08-25T15:55:01-0400",
+				"isbn": "",
+				"upc": "75960608341101311",
+				"diamondCode": "JUN160780",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! Deadpool risks his Avengers status on a secret mission to rescue another Avenger! The aftermath of an explosive CIVIL WAR II event reverberates through the Avengers. Plus, Cable and Steve Rogers face off, with the future of the Unity Squad at stake."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/56225",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/56225/uncanny_avengers_2015_13?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Uncanny-Avengers-13/digital-comic/42347?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20621",
+					"name": "Uncanny Avengers (2015 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60143",
+						"name": "Uncanny Avengers (2015) #13 (Hughes Captain America 75th Anniversary Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-08-31T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-17T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/57c47a434a872",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/57c47a434a872",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56225/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+							"name": "Gerry Duggan",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+							"name": "Ryan Stegman",
+							"role": "penciller (cover)"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56225/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+							"name": "Cable"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+							"name": "Deadpool"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+							"name": "Hawkeye"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+							"name": "Rogue"
+						}
+					],
+					"returned": 6
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56225/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123413",
+							"name": "cover from Uncanny Avengers (2015) #13",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123414",
+							"name": "story from Uncanny Avengers (2015) #13",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56225/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57869,
+				"digitalId": 0,
+				"title": "Captain America: Steve Rogers (2016) #4",
+				"issueNumber": 4,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! With war on the horizon, Steve attempts to broker a truce between Iron Man and Captain Marvel.",
+				"modified": "2016-08-17T16:08:22-0400",
+				"isbn": "",
+				"upc": "75960608457900411",
+				"diamondCode": "MAY160768",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 40,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! With war on the horizon, Steve attempts to broker a truce between Iron Man and Captain Marvel."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57869",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57869/captain_america_steve_rogers_2016_4?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-4/digital-comic/42109?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-08-24T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-09T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/57b35f1fc5d07",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/57b35f1fc5d07",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57869/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11809",
+							"name": "Aaron N. Kuder",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12846",
+							"name": "Javier Pina",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/9123",
+							"name": "Miguel Angel Sepulveda",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 5
+				},
+				"characters": {
+					"available": 1,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57869/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}
+					],
+					"returned": 1
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57869/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126440",
+							"name": "cover from Captain America: Steve Rogers (2016) #4",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126441",
+							"name": "story from Captain America: Steve Rogers (2016) #4",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57869/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 56442,
+				"digitalId": 0,
+				"title": "All-New Wolverine (2015) #11",
+				"issueNumber": 11,
+				"variantDescription": "",
+				"description": "CIVIL WAR II TIE-IN! DESTINY COMES KNOCKING FOR WOLVERINE! LAURA KINNEY has fought all her life to avoid a destiny she did not want. She has fought against instincts that would make her nothing more than a weapon to be used by others, instead becoming a hero — becoming WOLVERINE. But now, destiny intrudes again, this time threatening those dearest to her. And with a SUPER HERO CIVIL WAR tearing her world apart, is there any hope that Wolverine will emerge victorious? Or will she finally succumb to destiny?",
+				"modified": "2016-08-08T15:08:36-0400",
+				"isbn": "",
+				"upc": "75960608359601111",
+				"diamondCode": "JUN160814",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "CIVIL WAR II TIE-IN! DESTINY COMES KNOCKING FOR WOLVERINE! LAURA KINNEY has fought all her life to avoid a destiny she did not want. She has fought against instincts that would make her nothing more than a weapon to be used by others, instead becoming a hero — becoming WOLVERINE. But now, destiny intrudes again, this time threatening those dearest to her. And with a SUPER HERO CIVIL WAR tearing her world apart, is there any hope that Wolverine will emerge victorious? Or will she finally succumb to destiny?"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/56442",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/56442/all-new_wolverine_2015_11?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/All-New-Wolverine-11/digital-comic/42294?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20682",
+					"name": "All-New Wolverine (2015 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60195",
+						"name": "All-New Wolverine (2015) #11 (Parker Marvel Tsum Tsum Takeover Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-08-17T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-03T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/57a8b4f6af78a",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/57a8b4f6af78a",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56442/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/8098",
+							"name": "Bengal",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/8606",
+							"name": "Ig Guara",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+							"name": "Mark Paniccia",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+							"name": "Tom Taylor",
+							"role": "writer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56442/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009722",
+							"name": "X-23"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56442/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123739",
+							"name": "cover from All-New Wolverine (2015) #11",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123740",
+							"name": "story from All-New Wolverine (2015) #11",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56442/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 59614,
+				"digitalId": 0,
+				"title": "Civil War II: Gods of War (2016) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": "MEET THE DEITIES READY TO SAVE THE DAY. As a civil war rips through the Marvel Universe, HERCULES battles to stop the Uprising Storm…the one threat no one else is aware of. But if the first super hero is going to save the world, he’s going to need help, and not even the Avengers are going to stand in his way. With no one else to turn to, Herc must recruit heroes of myth to stand at his side. HERE COME GILGAMESH, BEOWULF, IRE, THESEUS, SIGURD and LORELEI…the GODS OF WAR!",
+				"modified": "2016-08-08T16:05:29-0400",
+				"isbn": "",
+				"upc": "75960608513200311",
+				"diamondCode": "JUN160772",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "MEET THE DEITIES READY TO SAVE THE DAY. As a civil war rips through the Marvel Universe, HERCULES battles to stop the Uprising Storm…the one threat no one else is aware of. But if the first super hero is going to save the world, he’s going to need help, and not even the Avengers are going to stand in his way. With no one else to turn to, Herc must recruit heroes of myth to stand at his side. HERE COME GILGAMESH, BEOWULF, IRE, THESEUS, SIGURD and LORELEI…the GODS OF WAR!"
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/59614",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/59614/civil_war_ii_gods_of_war_2016_3?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Civil-War-II-Gods-of-War-3/digital-comic/42299?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21693",
+					"name": "Civil War II: Gods of War (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59732",
+						"name": "Civil War II: Gods of War (2016) #3 (Aco Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-08-17T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-08-02T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/57a8b8978a818",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/57a8b8978a818",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59614/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+							"name": "Dan Abnett",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1040",
+							"name": "Jay Anacleto",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+							"name": "Katie Kubert",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12817",
+							"name": "Emilio Laiso",
+							"role": "penciller"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59614/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+							"name": "Captain Marvel (Carol Danvers)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+							"name": "Hercules"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+							"name": "Medusa"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+							"name": "Spider-Man"
+						}
+					],
+					"returned": 5
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59614/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129727",
+							"name": "cover from Civil War II: Hercules, God of War (2016) #3",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/129728",
+							"name": "story from Civil War II: Hercules, God of War (2016) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/59614/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 57868,
+				"digitalId": 42066,
+				"title": "Captain America: Steve Rogers (2016) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": "Hydra vs. Hydra! The Red Skull vs. Zemo, with Captain America caught in the crossfire. The trial of Maria Hill begins.",
+				"modified": "2016-07-21T15:53:23-0400",
+				"isbn": "",
+				"upc": "75960608457900311",
+				"diamondCode": "MAY160810",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "Hydra vs. Hydra! The Red Skull vs. Zemo, with Captain America caught in the crossfire. The trial of Maria Hill begins."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/57868",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/57868/captain_america_steve_rogers_2016_3?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Steve-Rogers-3/digital-comic/42066?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=42066&utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "inAppLink",
+						"url": "https://applink.marvel.com/issue/42066?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/21098",
+					"name": "Captain America: Steve Rogers (2016 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60057",
+						"name": "Captain America: Steve Rogers (2016) #3 (Wada Death of X Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59205",
+						"name": "Captain America: Steve Rogers (2016) #3 (Kuder Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59533",
+						"name": "Captain America: Steve Rogers (2016) #3 (Hans Mighty Men Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59914",
+						"name": "Captain America: Steve Rogers (2016) #3 (Madureira Captain America 75th Anniversary Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-07-27T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-07-12T00:00:00-0400"
+					}, {
+						"type": "unlimitedDate",
+						"date": "2017-01-30T00:00:00-0500"
+					}, {
+						"type": "digitalPurchaseDate",
+						"date": "2016-07-27T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}, {
+						"type": "digitalPurchasePrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/579127913bc29",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/579127913bc29",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 3,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57868/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12551",
+							"name": "Jesus Saiz",
+							"role": "penciller (cover)"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+							"name": "Nick Spencer",
+							"role": "writer"
+						}
+					],
+					"returned": 3
+				},
+				"characters": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57868/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+							"name": "Red Skull"
+						}
+					],
+					"returned": 2
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57868/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126438",
+							"name": "cover from Captain America: Steve Rogers (2016) #3",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/126439",
+							"name": "story from Captain America: Steve Rogers (2016) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/57868/events",
+					"items": [],
+					"returned": 0
+				}
+			}, {
+				"id": 56223,
+				"digitalId": 42129,
+				"title": "Uncanny Avengers (2015) #11",
+				"issueNumber": 11,
+				"variantDescription": "",
+				"description": "The Uncanny Avengers fight a war on two fronts as they discover they can’t trust someone close. Not everyone is happy to see that Hank Pym has returned. And…a fateful decision will change the life of one Avenger forever.",
+				"modified": "2016-07-22T16:45:39-0400",
+				"isbn": "",
+				"upc": "75960608341101111",
+				"diamondCode": "MAY160803",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [{
+						"type": "issue_solicit_text",
+						"language": "en-us",
+						"text": "The Uncanny Avengers fight a war on two fronts as they discover they can’t trust someone close. Not everyone is happy to see that Hank Pym has returned. And…a fateful decision will change the life of one Avenger forever."
+					}
+				],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/56223",
+				"urls": [{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/56223/uncanny_avengers_2015_11?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Uncanny-Avengers-11/digital-comic/42129?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=42129&utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}, {
+						"type": "inAppLink",
+						"url": "https://applink.marvel.com/issue/42129?utm_campaign=apiRef&utm_source=6a7ed890b4b941a925202a5630d5b162"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/20621",
+					"name": "Uncanny Avengers (2015 - Present)"
+				},
+				"variants": [{
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60007",
+						"name": "Uncanny Avengers (2015) #11 (Sternako Captain America Black and White Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/60079",
+						"name": "Uncanny Avengers (2015) #11 (Takeda Death of X Variant)"
+					}, {
+						"resourceURI": "http://gateway.marvel.com/v1/public/comics/59559",
+						"name": "Uncanny Avengers (2015) #11 (Hetrick Mighty Men Variant)"
+					}
+				],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [{
+						"type": "onsaleDate",
+						"date": "2016-07-27T00:00:00-0400"
+					}, {
+						"type": "focDate",
+						"date": "2016-07-13T00:00:00-0400"
+					}, {
+						"type": "unlimitedDate",
+						"date": "2017-01-30T00:00:00-0500"
+					}, {
+						"type": "digitalPurchaseDate",
+						"date": "2016-07-27T00:00:00-0400"
+					}
+				],
+				"prices": [{
+						"type": "printPrice",
+						"price": 3.99
+					}, {
+						"type": "digitalPurchasePrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/57928566af425",
+					"extension": "jpg"
+				},
+				"images": [{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/57928566af425",
+						"extension": "jpg"
+					}, {
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/57926d375504b",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56223/creators",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+							"name": "Gerry Duggan",
+							"role": "writer"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+							"name": "Pepe Larraz",
+							"role": "penciller"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+							"name": "Ryan Stegman",
+							"role": "penciller (cover)"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 8,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56223/characters",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+							"name": "Avengers"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+							"name": "Cable"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+							"name": "Captain America"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+							"name": "Deadpool"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+							"name": "Human Torch"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+							"name": "Quicksilver"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+							"name": "Rogue"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+							"name": "Ultron"
+						}
+					],
+					"returned": 8
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56223/stories",
+					"items": [{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123409",
+							"name": "cover from Uncanny Avengers (2015) #11",
+							"type": "cover"
+						}, {
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/123410",
+							"name": "story from Uncanny Avengers (2015) #11",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/56223/events",
+					"items": [],
+					"returned": 0
+				}
+			}
+		]
+	}
+}

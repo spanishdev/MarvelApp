@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void loadComicDetailsFragment(Comic comic, WeakReference<TextView> textViewWeakReference)
+    public void loadComicDetailsFragment(Comic comic)
     {
         Fragment fragment = new ComicDetailsFragment();
 

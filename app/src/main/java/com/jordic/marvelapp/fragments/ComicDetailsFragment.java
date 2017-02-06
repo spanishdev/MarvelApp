@@ -24,7 +24,7 @@ import static com.jordic.marvelapp.R.id.title;
 import static com.jordic.marvelapp.R.id.titleTextView;
 
 /**
- * Created by J on 04/02/2017.
+ * Created by Jordi on 04/02/2017.
  */
 
 public class ComicDetailsFragment extends Fragment
